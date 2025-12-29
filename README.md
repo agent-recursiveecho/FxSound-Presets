@@ -84,4 +84,4 @@ Try with this dubstep track: https://soundcloud.com/dubstepfm/dubstep-fm-archive
 
 *Listening with a preamp and premium headphones*
 
-Donate to support the FxSound project here: t.ly/8-rTd
+Donate to support the FxSound project here: https://paypal.com/donate/?hosted_button_id=JVNQGYXCQ2GPG
