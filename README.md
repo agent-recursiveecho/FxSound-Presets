@@ -1,8 +1,8 @@
-# Personal fxsound preset
+# Personal FxSound preset
 
 ## Preset Title: HELL YEA
 
-This FXSound preset applies a warm, bass-forward EQ curve with a noticeably darker top end.
+This FxSound preset applies a warm, bass-forward EQ curve with a noticeably darker top end.
 
 Adds weight and punch in the lows: A moderate boost at 62.5 Hz increases sub-bass rumble and fullness.
 
@@ -83,3 +83,5 @@ https://github.com/fxsound2 to download or https://www.fxsound.com/ for app!****
 Try with this dubstep track: https://soundcloud.com/dubstepfm/dubstep-fm-archive-2007-07-29-brained-dub-with-phaded-and-fstz
 
 *Listening with a preamp and premium headphones*
+
+Donate to support the FxSound project here: t.ly/8-rTd
