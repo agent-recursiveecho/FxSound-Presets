@@ -82,6 +82,4 @@ https://github.com/fxsound2 to download or https://www.fxsound.com/ for app!****
 
 Try with this dubstep track: https://soundcloud.com/dubstepfm/dubstep-fm-archive-2007-07-29-brained-dub-with-phaded-and-fstz
 
-*Listening with a preamp and premium headphones*
-
-Donate to support the FxSound project here: https://t.ly/xMRwC
+**Listening with a preamp and premium headphones**
